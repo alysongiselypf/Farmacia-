@@ -1,5 +1,5 @@
 # Información del proyecto
-PROJECT_NAME = farmacia-
+PROJECT_NAME = farmacia
 VERSION = 1.0
 
 # Opciones
